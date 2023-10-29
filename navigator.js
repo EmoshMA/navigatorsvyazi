@@ -34,6 +34,7 @@ function auditorySelect () {
 	let gym = document.querySelector('.gymimg');
 	let gym1 = document.querySelector('.gym1img');
 	let canteen = document.querySelector('.cabimg_canteen');
+	let mainpic = document.querySelector('.mainpic')
 	switch (selValue) {
 		case "12":
 			cab12.classList.remove('hidden');
@@ -69,6 +70,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "13":
 			cab12.classList.add('hidden');
@@ -104,6 +106,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "14":
 			cab12.classList.add('hidden');
@@ -139,6 +142,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "16":
 			cab12.classList.add('hidden');
@@ -174,6 +178,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "17":
 			cab12.classList.add('hidden');
@@ -209,6 +214,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "18":
 			cab12.classList.add('hidden');
@@ -244,6 +250,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "19":
 			cab12.classList.add('hidden');
@@ -279,6 +286,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "22":
 			cab12.classList.add('hidden');
@@ -314,6 +322,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "23":
 			cab12.classList.add('hidden');
@@ -349,6 +358,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "24":
 			cab12.classList.add('hidden');
@@ -384,6 +394,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "25":
 			cab12.classList.add('hidden');
@@ -419,6 +430,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "26":
 			cab12.classList.add('hidden');
@@ -454,6 +466,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "101":
 			cab12.classList.add('hidden');
@@ -489,6 +502,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "102":
 			cab12.classList.add('hidden');
@@ -524,6 +538,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "103":
 			cab12.classList.add('hidden');
@@ -559,6 +574,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "105":
 			cab12.classList.add('hidden');
@@ -594,6 +610,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "106":
 			cab12.classList.add('hidden');
@@ -629,6 +646,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "107":
 			cab12.classList.add('hidden');
@@ -664,6 +682,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "108":
 			cab12.classList.add('hidden');
@@ -699,6 +718,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "109":
 			cab12.classList.add('hidden');
@@ -734,6 +754,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "110":
 			cab12.classList.add('hidden');
@@ -769,6 +790,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "111":
 			cab12.classList.add('hidden');
@@ -804,6 +826,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "112":
 			cab12.classList.add('hidden');
@@ -839,6 +862,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "113":
 			cab12.classList.add('hidden');
@@ -874,6 +898,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "114":
 			cab12.classList.add('hidden');
@@ -909,6 +934,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "115":
 			cab12.classList.add('hidden');
@@ -944,6 +970,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "116":
 			cab12.classList.add('hidden');
@@ -979,6 +1006,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "117":
 			cab12.classList.add('hidden');
@@ -1014,6 +1042,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "118":
 			cab12.classList.add('hidden');
@@ -1049,6 +1078,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "119":
 			cab12.classList.add('hidden');
@@ -1084,6 +1114,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "gym":
 			cab12.classList.add('hidden');
@@ -1119,6 +1150,7 @@ function auditorySelect () {
 			gym.classList.remove('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "gym1":
 			cab12.classList.add('hidden');
@@ -1154,6 +1186,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.remove('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "canteen":
 			cab12.classList.add('hidden');
@@ -1189,6 +1222,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.remove('hidden');
+			mainpic.classList.add('hidden');
 			break;
 		case "w":
 			cab12.classList.add('hidden');
@@ -1224,6 +1258,7 @@ function auditorySelect () {
 			gym.classList.add('hidden');
 			gym1.classList.add('hidden');
 			canteen.classList.add('hidden');
+			mainpic.classList.remove('hidden');
 			break;
 
 	}
